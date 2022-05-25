@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman Ajay Markhedkar
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML , CS and JavaScript
+- 🌱 I’m currently learning HTML , CSS and JavaScript
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me Linkedin/marknaman05
                       Instagram/naman_mark
