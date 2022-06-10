@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Ajay Markhedkar</h1>
-<img src="![Computer Google Classroom Header](https://user-images.githubusercontent.com/77118629/173147104-9c52e50f-a69a-4df6-94a7-7410ce918d3e.png)">
+<img src="https://user-images.githubusercontent.com/77118629/173147104-9c52e50f-a69a-4df6-94a7-7410ce918d3e.png">
 
 <h3 align="center">A passionate Full-Stack developer from BITS-Pilani,Goa Campus.</h3>
 
