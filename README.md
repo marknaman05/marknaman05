@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/marknaman05)  
 
-- 🌱 I’m currently learning **Angular,Typescript**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 👀 I’m interested in **Web Development**
 
